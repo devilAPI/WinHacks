@@ -1,6 +1,6 @@
 # WinHacks
 Registry and Batch Tweaks, Hacks and Tools!
-# Compatibility
+## Compatibility
 Please note that .bat, .cmd and .reg files only work on windows.
-# Credits
+## Credits
 Some tools are from my old repository (BATTOOLS)
